@@ -461,6 +461,8 @@ User-agent: Iskanie
 Disallow:/
 User-agent: IstellaBot
 Disallow:/
+User-agent: Jaunt/1.5
+Disallow:/
 User-agent: JOC Web Spider
 Disallow:/
 User-agent: JamesBOT
